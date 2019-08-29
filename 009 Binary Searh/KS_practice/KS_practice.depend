@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1558919867 source:d:\embedded system abdulaal\c codes\002 data structure\009 binary searh\ks_practice\main.c
+	<stdio.h>
+	<stdlib.h>
+	"test.h"
+
+1558919787 d:\embedded system abdulaal\c codes\002 data structure\009 binary searh\ks_practice\test.h
+
+1558919787 source:d:\embedded system abdulaal\c codes\002 data structure\009 binary searh\ks_practice\test.c
+	"test.h"
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1559177025 source:d:\embedded system abdulaal\c codes\002 data structure\009 binary searh\multi_files\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdlib.h>
+
+1558983840 source:d:\embedded system abdulaal\c codes\002 data structure\009 binary searh\multi_files\sub1.c
+
